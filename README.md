@@ -1,3 +1,3 @@
 # libmemtrack
 
-## Memory Leak Tracker - C Project for Advanced Programming Subject
+## Memory Leak Tracker Library - C Project for Advanced Programming Subject
